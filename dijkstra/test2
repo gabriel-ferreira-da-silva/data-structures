@@ -1,0 +1,17 @@
+a 11
+b 0 1 1 b 0 2 10 b 0 3 5
+b 1 2 1 b 1 4 2
+b 2 4 3
+b 3 2 1 b 3 6 5
+b 4 7 2
+b 5 3 5 b 5 4 1 b 5 6 1 b 5 7 10
+b 6 8 5
+b 7 8 20 b 7 10 2
+b 8 10 10 
+b 9 6 7 b 9 8 1
+b 10 9 6
+show
+dijkstra 0
+dijk-all
+show
+q
